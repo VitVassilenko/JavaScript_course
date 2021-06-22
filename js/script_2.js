@@ -89,4 +89,3 @@ for (let i=1; i<=2; i++) {
     personalMovieDB.movies = {[filmName] : filmRate};
     console.log(personalMovieDB.movies);
 }
-
